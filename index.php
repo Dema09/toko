@@ -8,5 +8,16 @@
 </head>
 <body>
     <h1>Ini Pake Git</h1>
+    <?php
+
+        for($p = 0; $p<5 ; $p++){
+
+            echo("for $p");
+
+        }
+
+
+    ?>
+
 </body>
 </html>
